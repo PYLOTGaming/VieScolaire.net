@@ -1,0 +1,21 @@
+#Login_new1_TextBox1{
+	background: #bdc3c7;
+	border: 0px;
+	height: 30px;
+	font-size: 1.3em;
+}
+#Login_new1_TextBox2{
+	background: #bdc3c7;
+	border: 0px;
+	height: 30px;
+	font-size: 1.3em;
+}
+#Login_new1_ButtonValider{
+	background: url(../imgs/lightblue_back.png);
+	border: 0px;
+	height: 30px;
+	width: 146px;
+	font: 1.9em;
+	color: #fff;
+	cursor: pointer;
+}
