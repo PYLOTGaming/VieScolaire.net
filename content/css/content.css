@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #34495e;
+	color: #fff;
+	font-family: 'Lato';
+	text-align: center;
+}a{
+	color: #fff;
+	text-decoration: none;
+}
+a:hover{
+	color: #DDD;
+	text-decoration: none;
+}
+header.menu{
+	background: #0099CC;
+	height: 50px;
+}
+button{
+	background: transparent;
+	border: 0px;
+	color: #fff;
+	height: 50px;
+	font-size: 1.2em;
+	cursor: pointer;
+}
+header.menu2{
+	float: left;
+	background: #0099CC;
+	height: 90%;
+	width: 200px;
+}
