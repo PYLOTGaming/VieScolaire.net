@@ -1,0 +1,16 @@
+body{
+	margin: 0px;
+	padding: 17%;
+	background: #34495e;
+	color: #fff;
+	font-family: 'Lato';
+	text-align: center;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+a:hover{
+	color: #DDD;
+	text-decoration: none;
+}
